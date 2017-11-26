@@ -1,0 +1,27 @@
+{
+  "name": "firebase-infinity",
+  "version": "1.0.0",
+  "description": "Firebase examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "db": "node src/RealTimeDatabase/index.js",
+    "auth": "node "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nFinitySolutionsdev/Firebase.git"
+  },
+  "keywords": [
+    "firebase"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nFinitySolutionsdev/Firebase/issues"
+  },
+  "homepage": "https://github.com/nFinitySolutionsdev/Firebase#readme",
+  "dependencies": {
+    "firebase": "^4.6.2"
+  }
+}
